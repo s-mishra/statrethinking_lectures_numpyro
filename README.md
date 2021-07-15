@@ -6,10 +6,10 @@ Here are steps to get started with this repo:-
 
 * Install [conda](https://docs.conda.io/en/latest/miniconda.html) as per your OS instructions. You can skip this step if you already have conda installed on your machine.
 *  Clone the repository
-  ```
-  git clone git@github.com:s-mishra/statrethinking_lectures_numpyro.git
-  cd statrethinking_lectures_numpyro
-  ```
+    ```
+    git clone git@github.com:s-mishra/statrethinking_lectures_numpyro.git
+    cd statrethinking_lectures_numpyro
+    ```
 * Create new environment from the yml file provided
   ```
   conda env create -f environment.yml
