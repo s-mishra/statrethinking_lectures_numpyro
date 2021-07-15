@@ -1,0 +1,15 @@
+name: statrethinking
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - plotnine
+  - seaborn
+  - pandas
+  - numpyro
+  - arviz
+  - scipy
+  - jupyterlab
+  - notebook
+prefix: /Users/smishra/anaconda3/envs/statrethinking
