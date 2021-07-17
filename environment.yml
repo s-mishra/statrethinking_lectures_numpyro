@@ -3,13 +3,15 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python
-  - plotnine
+  - jupyterlab
+  - numpyro
+  - notebook
+  - scipy
   - seaborn
   - pandas
-  - numpyro
+  - plotnine
+  - python=3.8
   - arviz
-  - scipy
-  - jupyterlab
-  - notebook
+  - jupyterlab_widgets
+  - ipywidgets
 prefix: /Users/smishra/anaconda3/envs/statrethinking
